@@ -16,29 +16,6 @@ Manter um histórico rico, padronizado e de fácil acesso com instruções clara
 
 ---
 
-## 📂 Estrutura do Repositório
-
-A documentação está dividida por categorias para facilitar a navegação e a busca. Abaixo está a estrutura sugerida para organização dos arquivos `.md`:
-
-```text
-📦 base-de-conhecimento
- ┣ 📂 Sistemas-Operacionais
- ┃ ┣ 📂 Linux
- ┃ ┃ ┗ 📜 Ingresso_Zorin_ActiveDirectory.md
- ┃ ┗ 📂 Windows
- ┣ 📂 Redes-e-Conectividade
- ┃ ┣ 📜 Configurando_Wireguard.md
- ┃ ┗ 📜 Acesso_SSH_Proxy.md
- ┣ 📂 Servidores-e-Infraestrutura
- ┃ ┗ 📜 Migracao_Unifi_LXD.md
- ┣ 📂 Produtividade-e-Ambiente
- ┃ ┗ 📜 Automacao_Replica_Zorin.md
- ┗ 📜 README.md
-```
-*(A estrutura do repositório evoluirá conforme novos guias forem sendo adicionados).*
-
----
-
 ## 🚀 Como Visualizar
 
 Todos os documentos neste repositório são escritos em **Markdown (.md)**. Você pode lê-los diretamente na interface do GitHub/GitLab com formatação nativa, ou visualizá-los localmente utilizando editores como:
